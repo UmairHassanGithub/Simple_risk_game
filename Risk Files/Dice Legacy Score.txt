@@ -1,0 +1,24 @@
+Name: Bob
+Wins: 9
+lost: 2
+Win Streak: 0
+Name: Dude
+Wins: 0
+lost: 1
+Win Streak: 0
+Name: Fast
+Wins: 1
+lost: 0
+Win Streak: 1
+Name: Jordon
+Wins: 8
+lost: 3
+Win Streak: 0
+Name: Joe
+Wins: 0
+lost: 1
+Win Streak: 0
+Name: Umair
+Wins: 4
+lost: 7
+Win Streak: 4

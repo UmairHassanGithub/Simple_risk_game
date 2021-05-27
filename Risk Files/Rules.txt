@@ -1,0 +1,10 @@
+There are two sides that are competing dominance over the land.
+In order to win one side must eliminate all influence from the enemy.
+To do this, both players will take turns attacking each other. 
+Players can only attack up, down, right and left from their tile.
+It is worth noting, that defenders will have an advantage,
+You can transfer troops from one friendly tile to another.
+As troops deplete, occasional reinforcements will come,
+Tiles with the lowest amount of soldiers will gain more,
+While the highest ones will gain less per reinforcement.
+You cannot cross water. 
